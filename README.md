@@ -1,1 +1,1 @@
-# Generic Programming Study Guide (JAVA)
+# Generic Programming Study Guide - JAVA Edition
